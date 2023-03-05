@@ -6,4 +6,4 @@ The collections package is a standard library for generic data structures
 
 - [x] Stack
 - [x] ConcurrentStack
-- [ ] HashSet
+- [x] HashSet
